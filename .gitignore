@@ -1,0 +1,6 @@
+items/*
+.env
+node_modules/*
+package.json
+package-lock.json
+*.py
